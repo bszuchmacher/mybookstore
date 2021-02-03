@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "A Room of One's Own",
+            "author": "Virginia Woolf",
+            "price" : "$4.99",
+            "category": "Fiction",
+            "cover": "https://almabooks.com/wp-content/uploads/2018/10/9781847497888.jpg"
+        },
+        {
+            "id": 2,
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "price" : "$4.99",
+            "category": "Fiction",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/71xL8U55tYL.jpg"
+        },
+        {
+            "id": 3,
+            "title": "The Second Sex",
+            "author": "Simone de Beauvoir",
+            "price" : "$4.99",
+            "category": "Fiction",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81lQAfZ20qL.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Oranges Are Not the Only Fruit",
+            "author": "Jeanette Winterson",
+            "price" : "$4.99",
+            "category": "Fiction",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/71En3bDCWCL.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Orlando",
+            "author": "Virginia Woolf",
+            "price" : "$4.99",
+            "category": "Fiction",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/71dD0ax7MEL.jpg"
+        }
+    ]
+}
