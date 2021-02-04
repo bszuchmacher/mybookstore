@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import { getBooks } from "../actions/BookAction";
 import "./AddBookForm.scss";
 
-const AddBookForm = ({ books, addBook, getBooks }) => {
+const AddBookForm = ({ addBook, getBooks }) => {
   const [title, setTitle] = useState("");
   const [author, setAuthor] = useState("");
   const [price, setPrice] = useState("");
@@ -50,7 +50,7 @@ const AddBookForm = ({ books, addBook, getBooks }) => {
           name="category"
           value={category}
           placeholder="Category"
-          onChange={(event) => setPrice(event.target.value)}
+          onChange={(event) => setCategory(event.target.value)}
         />
         <input
           className="image-inpt"
